@@ -1,4 +1,4 @@
-module gopkg.in/go-oauth2/mongo.v3
+module github.com/taxime-hq/mongo
 
 go 1.13
 
